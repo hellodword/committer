@@ -2,8 +2,8 @@
 
 - [ ] `GitHub Enterprise`[^github-enterprise]: `GitHub Enterprise <ghe-noreply@company.com>`
 - [x] `dependabot[bot]`[^dependabot-bot]: `dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>`
-- [ ] `dependabot-preview[bot]`[^dependabot-preview-bot]: `dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>`
-
+- [x] `dependabot-preview[bot]`[^dependabot-preview-bot]: `dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>`
+- [x] `github-actions[bot]`: `github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>`
 
 ---
 
